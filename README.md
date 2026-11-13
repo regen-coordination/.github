@@ -35,3 +35,5 @@ See [GitHub's default community file documentation](https://docs.github.com/en/c
 No organization-wide sponsorship destination is configured in this repository. When funding destinations are approved for Regen Coordination, add `.github/FUNDING.yml` using [GitHub's supported configuration](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
 
 Funded contribution work requires a separate agreement as described in the [contribution guide](CONTRIBUTING.md).
+## Licensing
+Licensing for new Regen Coordination work in this repository is pending agreement. No license has been selected for that work.
