@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Project help and contribution questions
+    url: https://github.com/regen-coordination/.github/blob/main/SUPPORT.md
+    about: Find the relevant project and its support routes.
+  - name: Private security reporting
+    url: https://github.com/regen-coordination/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately instead of posting sensitive details in an issue.
+  - name: Private conduct reporting
+    url: https://github.com/regen-coordination/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Find the private contact for community conduct concerns.

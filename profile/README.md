@@ -1,6 +1,6 @@
 # Regen Coordination
 
-Regen Coordination brings people and projects together to improve how regenerative communities share knowledge, build useful tools, and learn from practice. The work involves collaborators across GreenPill Network, ReFi DAO, Bloom Network, and the wider regenerative and public-goods ecosystem.
+Regen Coordination brings people and projects together to strengthen coordination across regenerative communities. Our shared work connects knowledge, practical tools, and organizational learning so communities can build on one another's experience.
 
 ## Find the work
 
@@ -18,4 +18,8 @@ See the [project map](https://github.com/regen-coordination/knowledge-commons/bl
 
 - [Regen Knowledge Garden](https://www.geobrowser.io/space/b818ec4b89d949d88342249e3c649cd0) - a Regen-specific knowledge environment being developed across interconnected sources and tools. [About the Garden](https://github.com/regen-coordination/knowledge-commons/blob/main/docs/regen-knowledge-garden.md).
 
-Each repository has its own scope and working status. To suggest a correction or contribute, start with the relevant repository's documentation, issues, or pull requests. Publication and review requirements for knowledge or Geo edits remain separate from ordinary GitHub documentation changes.
+## Contribute
+
+Help through research, documentation, knowledge curation, design, software, or coordination. Start with our [contribution guide](https://github.com/regen-coordination/.github/blob/main/CONTRIBUTING.md), then follow the relevant repository's documentation, issues, or pull requests.
+
+Each project has its own scope and working status. Knowledge and Geo contributions follow the owning project's review and publication requirements. For questions, see [Support](https://github.com/regen-coordination/.github/blob/main/SUPPORT.md).

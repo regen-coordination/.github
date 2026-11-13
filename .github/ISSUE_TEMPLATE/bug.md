@@ -1,38 +1,31 @@
 ---
-name: Bug
-about: Create a report to help us improve
-title: "[BUG]"
-labels: bug
-assignees: ''
-
+name: Bug report
+about: Report a reproducible problem in a tool, website, or workflow.
+title: "[Bug] "
+labels: ""
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Affected project or resource
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Link the repository, page, tool, or workflow. File this issue in the repository responsible for it.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## What happened?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Describe the problem and who it affects.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Steps to reproduce
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1. Describe the first step.
+2. Describe the next step.
+3. Describe where the problem appears.
 
-**Additional context**
-Add any other context about the problem here.
+## Expected outcome
+
+Describe what should happen.
+
+## Environment and evidence
+
+Include the version or commit, relevant environment, and redacted logs or screenshots where useful. Use synthetic examples and remove personal information and secrets.
+
+For security vulnerabilities or sensitive conduct reports, use the project's private reporting policy instead of a public issue.
