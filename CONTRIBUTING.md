@@ -1,59 +1,40 @@
-# Contributor Guide for Greenpill Dev Guild
+# Contributing to Regen Coordination
 
-Welcome to the Greenpill Dev Guild! We’re excited to have you contribute to our projects that promote regenerative, open-source digital infrastructure. This guide provides an overview of how to get involved, claim bounties, and contribute code or designs.
+Help regenerative communities share knowledge, build useful tools, and learn from one another. Contributions can include research, documentation, knowledge curation, design, software, and coordination.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Bounties and How to Claim One](#bounties-and-how-to-claim-one)
-- [Development Guidelines](#development-guidelines)
-- [Submitting Your Work](#submitting-your-work)
-- [Review Process](#review-process)
-- [Payment and Completion](#payment-and-completion)
-- [Resources](#resources)
-- [Code of Conduct](#code-of-conduct)
+## Find the right project
 
----
+- [Regen Knowledge Commons](https://github.com/regen-coordination/knowledge-commons) for knowledge infrastructure, commoning documentation, and Geo tooling.
+- [Regen Toolkit](https://github.com/regen-coordination/regen-toolkit) for practical educational resources.
+- [Regen Coordination OS](https://github.com/regen-coordination/regen-coordination-os) for organizational memory, coordination workflows, and shared skills.
 
-## Getting Started
-Before you start contributing, we encourage you to:
-1. **Join Our Community**: Engage with us on [Telegram](https://t.me/+n7g-u8wYtwQ2YjVi) and [Discord](https://discord.com/channels/1096048734976090222) to stay updated.
-2. **Familiarize Yourself with Projects**: Browse our active repositories like [Green Goods](https://github.com/greenpill-dev-guild/green-goods) and [Regen Rabbit Race](https://github.com/greenpill-dev-guild/regen-rabbit-race).
+Use the [project map](https://github.com/regen-coordination/knowledge-commons/blob/main/docs/MAP.md) if you are unsure where work belongs. Each repository's README, contributor guidance, license, and working instructions define its scope and requirements.
 
-## Bounties and How to Claim One
-1. **Find a Bounty**: Browse available bounties on the [Bounty Database](https://app.charmverse.io/greenpill-network/bounty-database-35083055405759045).
-2. **Submit a Bounty Application**: Apply for a bounty by providing a timeline and technical context. You can submit your application via the [Charmverse Bounty Application Form](https://app.charmverse.io/greenpill-network/proposals/new?template=574ac7d0-42ff-4b05-8e93-7e142ec8c78d).
-3. **Start Work**: Upon acceptance, you will receive a development stipend to begin work on the assigned bounty. Ensure that you meet all technical requirements and deadlines.
-4. **Check-ins**: Participate in weekly 15-minute check-ins to report progress. Stay aligned with the Guild's coding standards and security practices.
+## Propose and submit work
 
-## Development Guidelines
-- **Open Source Only**: All code and dependencies used must be open-source.
-- **Coding Standards**: Follow the project’s specific coding standards. All contributions must be well-documented.
-- **Testing**: Ensure that your code is accompanied by unit tests and integrates smoothly with the continuous integration (CI) pipeline.
-- **Security**: Apply best practices for security, including handling of sensitive data.
+1. Read the owning repository's documentation and existing issues or pull requests. Small corrections can go directly to a pull request.
+2. For larger work, open an issue in the relevant project before starting. Describe the need, who it affects, the proposed outcome, and what would count as complete. For these shared organization guidelines, open a [pull request in the `.github` repository](https://github.com/regen-coordination/.github/pulls).
+3. Keep the change focused. Follow the project's conventions and preserve work owned by other contributors.
+4. Submit a pull request with the reason for the change, links to relevant discussions or sources, and the checks or review you completed. Describe any remaining uncertainty.
 
-## Submitting Your Work
-1. **Create a Pull Request (PR)**: Once your work is complete, create a PR on GitHub linking to the relevant project board issues. If you're working on a design, submit it via Figma or another design tool, and notify the product lead.
-2. **Submit for Approval**: Go back to your Charmverse bounty application and submit for final approval.
+Project maintainers review contributions against the project's scope and requirements and may request revisions. An issue or proposal is an opportunity for discussion; agree on ownership and expectations before committing to substantial work.
 
-## Review Process
-- **Review by Maintainers**: The project maintainers will review your submission for quality, adherence to the scope, and testing completeness.
-- **Feedback**: If revisions are necessary, you'll receive feedback and a chance to make updates.
+## Contribution quality
 
-## Payment and Completion
-1. **Approval**: Once your work is approved, the final payment for the bounty will be processed.
-2. **Payment Method**: Payments are made via Optimism within 2 days of the final approval.
-3. **Total Compensation**: Your total bounty compensation will include the initial development stipend and the remainder upon successful completion.
+- **Research and knowledge:** Preserve source links, attribution, context, and reuse permissions. Distinguish proposals, raw material, AI-assisted drafts, and reviewed knowledge. Follow the project's review and publication process.
+- **Documentation and education:** Use clear language, check links and examples, and identify the intended reader.
+- **Design:** Explain the user need and provide reviewable artifacts with enough context to assess the change.
+- **Software:** Follow the owning repository's stack and conventions, run its required checks, and report meaningful verification and limits. Use synthetic or redacted data in public artifacts.
+- **Coordination:** Identify affected projects, dependencies, the proposed owner, and the decision or handoff needed.
 
-## Resources
-- [Bounty Database](https://app.charmverse.io/greenpill-network/bounty-database-35083055405759045)
-- [Bounty Guide](https://app.charmverse.io/greenpill-network/bounty-guide-23436206017091443)
-- [Tech Stack Documentation](https://app.charmverse.io/greenpill-network/tech-stack-3760480606741934)
-- [Dev Guild on GitHub](https://github.com/greenpill-dev-guild)
+Check the owning project's license and the reuse terms of any contributed material. Keep credentials, personal contact details, private meeting records, and restricted source material out of public contributions.
 
-## Code of Conduct
-Please read and adhere to our [Code of Conduct](./Greenpill_Dev_Guild_Code_of_Conduct.md) to ensure a welcoming, inclusive, and productive environment for all contributors.
+A documentation merge does not authorize publishing knowledge to another system, committing funds, or changing another project's policies. Obtain the approvals required by the affected project.
 
----
+## Funded work
 
-Thank you for contributing to the Greenpill Dev Guild! We look forward to building with you.
-"""
+Paid work requires an explicit agreement before work begins. Confirm the scope, budget, responsible payer, acceptance criteria, and payment terms with the responsible project maintainers. Ordinary contributions do not establish an entitlement to a bounty, stipend, or payment.
+
+## Community and help
+
+Follow the [Code of Conduct](https://github.com/regen-coordination/.github/blob/main/CODE_OF_CONDUCT.md). Use [Support](https://github.com/regen-coordination/.github/blob/main/SUPPORT.md) for project questions, [Governance](https://github.com/regen-coordination/.github/blob/main/GOVERNANCE.md) for decision routes, and the [Security policy](https://github.com/regen-coordination/.github/blob/main/SECURITY.md) for private vulnerability reports.

@@ -1,45 +1,39 @@
-# Code of Conduct for Greenpill Dev Guild GitHub Organization
+# Regen Coordination Code of Conduct
 
-## Introduction
+Regen Coordination welcomes people contributing research, knowledge, documentation, design, software, and coordination. These expectations apply to participation in our GitHub repositories and collaboration spaces managed by Regen Coordination.
 
-The Greenpill Dev Guild is a network of developers and contributors focused on building regenerative digital infrastructure. We are committed to fostering a respectful, inclusive, and collaborative environment for all contributors. This Code of Conduct outlines the expectations for behavior within our community, both online and offline, including contributions to our GitHub repositories.
+## Our values
 
-## Our Values
+- **Respect and inclusion:** Welcome different backgrounds, identities, experience levels, and perspectives. Make room for others to participate.
+- **Integrity:** Be honest about your work, sources, evidence, and uncertainty.
+- **Collaboration:** Share useful context, give constructive feedback, and respond to disagreement with care.
+- **Responsible openness:** Document work and decisions where appropriate while protecting personal information, private reports, and restricted source material.
+- **Regenerative purpose:** Consider how work affects communities, public goods, and the environment.
 
-- **Respect and Inclusivity:** We value diverse perspectives and ensure that all voices are heard. Everyone should feel welcome regardless of their background, identity, or experience level.
-- **Transparency:** All contributions, discussions, and decisions should be open and transparent to the community. Transparency builds trust and fosters collaboration.
-- **Integrity:** Maintain honesty and integrity in all contributions, whether they are in code, documentation, or communication.
-- **Collaboration:** Open source thrives on collaboration. Be generous with your time, knowledge, and expertise. Be open to feedback and willing to give constructive feedback.
-- **Ethical Development:** Prioritize ethical practices in development, ensuring that our projects contribute positively to society, the environment, and public goods.
+## Expected behavior
 
-## Expected Behavior
+- Discuss ideas and evidence without personal attacks.
+- Respect people's boundaries, consent, time, and contributions.
+- Preserve attribution and permissions when sharing others' work.
+- Give specific, constructive feedback and accept corrections.
+- Take responsibility for mistakes and help resolve their effects.
 
-1. **Be Respectful**: Engage in constructive and respectful discussions. Disagreement is fine, but rudeness, personal attacks, or harassment will not be tolerated.
-2. **Foster Inclusivity**: Ensure everyone feels welcome. Discriminatory language or behavior related to race, gender, religion, or other aspects of identity will not be tolerated.
-3. **Be Transparent**: All decisions, whether technical or organizational, should be made transparently. Document your contributions clearly and openly.
-4. **Commit to Collaboration**: Share your work early, provide feedback generously, and ask for help when needed. We grow stronger by learning from each other.
-5. **Respect the Community’s Purpose**: The Greenpill Dev Guild is focused on building regenerative and ethical technology. Ensure that your contributions align with these goals.
-6. **Be Responsible**: Hold yourself and others accountable. Own your mistakes, learn from them, and strive for continuous improvement.
+## Unacceptable behavior
 
-## Unacceptable Behavior
+Harassment, discrimination, threats, intimidation, unwelcome contact, deliberate deception, and publishing private information without consent are unacceptable. Contributions that knowingly harm people or communities are also unacceptable.
 
-- **Harassment**: Any form of harassment, including personal attacks, trolling, or unwelcome contact, will not be tolerated.
-- **Discrimination**: Discriminatory comments or behavior regarding race, gender, sexual orientation, or other personal attributes are unacceptable.
-- **Violence or Threats**: Any form of violent or threatening behavior is grounds for immediate removal from the community.
-- **Unethical Practices**: Contributions that knowingly harm the environment, society, or individuals, or involve dishonesty or deception, are strictly prohibited.
+## Reporting an incident
 
-## Reporting Incidents
+Email [regencoordination@proton.me](mailto:regencoordination@proton.me) to report conduct concerns privately. Include the relevant space or repository, what happened, and supporting context you can safely share. Let the reviewers know if someone involved should not receive the report.
 
-If you experience or witness any behavior that violates this Code of Conduct, please contact a member of the Greenpill Dev Guild stewardship team. All reports will be handled confidentially, and we will take appropriate action to ensure the safety and integrity of our community.
+Do not post sensitive incident details in public issues or pull requests. Reports should be handled with discretion, with information shared only as needed to assess and address the concern.
 
-## Consequences of Unacceptable Behavior
+## Review and response
 
-Unacceptable behavior will not be tolerated. If a community member engages in unacceptable behavior, the stewardship team may take any action they deem appropriate, including but not limited to:
+Repository maintainers or designated community stewards review reports and consider appropriate action within the spaces they manage. A reviewer involved in the incident should step aside from handling it.
 
-- A verbal or written warning.
-- Temporary suspension from community spaces (such as GitHub, Discord, or Telegram).
-- Permanent removal from the organization.
+Responses may include a request to change behavior, a warning, restrictions on participation, or temporary or permanent removal from a managed space. The response should reflect the circumstances and the safety of the people involved.
 
-## Acknowledgments
+## Questions and changes
 
-This Code of Conduct is based on guidelines from the Greenpill Dev Guild and other open-source community codes. It is an evolving document, and we welcome feedback from the community on how to improve it.
+For general questions or proposed improvements, follow the [shared governance guidance](https://github.com/regen-coordination/.github/blob/main/GOVERNANCE.md). Send questions containing private incident information to the reporting email above.
